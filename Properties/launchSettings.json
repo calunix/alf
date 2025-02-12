@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "alf": {
+      "commandName": "Project",
+      "commandLineArgs": " -u n17288 -d dc1,dc2,dc3"
+    }
+  }
+}
